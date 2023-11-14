@@ -6,7 +6,7 @@ The heart of this repository is the `sales_analysis.xlsm` file, where I've condu
 
 - **DataSheet:** Raw data sheet containing the sales dataset.
 - **Analysis Sheets and Charts:** Individual sheets dedicated to answering each of the provided questions also containing visual representations of the data, including line charts, pie charts, and other relevant visualizations.
-- - **Dashboard:** A consolidated view of all charts in the workbook.
+- **Dashboard:** A consolidated view of all charts in the workbook.
 
 ### How to Use:
 
